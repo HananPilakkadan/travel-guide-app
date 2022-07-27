@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HananPilakkadan/travel-guide-app/static/css/main.b267ead4.css",
+    "main.js": "/HananPilakkadan/travel-guide-app/static/js/main.9dee6d34.js",
+    "static/js/787.86252646.chunk.js": "/HananPilakkadan/travel-guide-app/static/js/787.86252646.chunk.js",
+    "static/media/place.svg": "/HananPilakkadan/travel-guide-app/static/media/place.7d64241c68d27142eb06e55910cd545d.svg",
+    "index.html": "/HananPilakkadan/travel-guide-app/index.html",
+    "static/media/logo.svg": "/HananPilakkadan/travel-guide-app/static/media/logo.5c4eda4450d0e16102da816513cee50f.svg",
+    "main.b267ead4.css.map": "/HananPilakkadan/travel-guide-app/static/css/main.b267ead4.css.map",
+    "main.9dee6d34.js.map": "/HananPilakkadan/travel-guide-app/static/js/main.9dee6d34.js.map",
+    "787.86252646.chunk.js.map": "/HananPilakkadan/travel-guide-app/static/js/787.86252646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b267ead4.css",
+    "static/js/main.9dee6d34.js"
+  ]
+}
